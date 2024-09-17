@@ -1,0 +1,41 @@
+{
+    "packetid": {
+        "sessionID": "2024090415112741990510440"
+    },
+    "information.session": {
+        "sessionID": "2024090415112741990510440",
+        "datestamp": "2024-09-04",
+        "timestamp": "15:11:27.377334",
+        "deviceID": "4199051",
+        "sequence": 440,
+        "timesync": true
+    },
+    "information.wifi": {
+        "ssid": "BrianWong",
+        "apMacAddress": "5A:CD:11:F0:13:86",
+        "channel": 4,
+        "ipAddress": "192.168.243.16",
+        "apIpAddress": "192.168.243.200",
+        "rssi_dBm": -48,
+        "noise_dBm": -94,
+        "snr": 46,
+        "CSI": [
+            98, 61, 23, 97, 43, 16, 67, 53, 46, 74, 42, 86, 63, 52, 60, 24, 75, 83, 48, 68, 8, 20, 12, 57, 88, 78, 66, 74, 30, 12, 95, 11, 57, 30, 86, 3, 94, 85, 66, 15, 37, 72, 69, 94, 44, 93, 80, 18, 24, 74, 2, 45, 70, 55, 45, 26, 14, 0, 97, 76, 81, 29, 48, 13
+        ],
+        "networkScan": {
+            "networkName": [
+                "true_home2G_824", "BrianWong", "Samsung Fridge_E50AJTRT083E", "patcha_2.4G", "m-home", "cakejaa_2.4G", "Kaewmanu_2.4G", "ORN_2.4G", "FFhome_2.4G", "Noe_1919_2.4G", "chiba2.4G", "DREAM_2.4G", "Meaw_WIFI_2.4G", "skybahama_2.4G", "pongsakorn_2.4G", "Cutie's my Mind_2.4G", "TP-Link_A384", "ANNCONNECT_2.4G", "Sythe_2.4G", "Unepupay_2.4G", "Setember_2.4G", "Zormint_2.4G", "Nutoyou 2.4G", "yut_wifi_2.4G", "TarnPaezWifi2.4G", "Phuket'G_2.4G", "true_home2G_baf", "THA1516_2.4G", "LTE-WiFi_8AA4", "Denny 2G", "m-home.bk", "Ton SW._2.4G", "ooryoil 2.4G", "PARKLAND_2.4G", "Aom22_2.4G", "Mr.Baymaxxx_2G", "Namwch_2.4G", "true_home2G_mm6", "padungsit_2.4G", "Pongkasem_2.4G", "Udom 2G", "PJhome_2.4G", "Bun_The Line 2.4G", "SoniicS_2G", "tassana_2.4G", "JessicaAnd Taeyeon_2.4G", "OamPrang_2G", "chira_2.4G", "Creamoneq.2.4G", "ARM2G", "MayMay_2.4G", "Natto_2.4G", "Amrate_2.4G", "TM'S wifi_2.4G", "The Line Wongsawang", "Pangcake2622_2.4G", "Kwan Jirapatch 2.4G", "rosa baan suay_2.4G"
+            ],
+            "networkMacAddress": [
+                "14:2E:5E:24:E8:24", "5A:CD:11:F0:13:86", "50:FD:D5:8E:2A:EB", "F8:79:28:C0:5F:76", "58:11:22:11:47:10", "64:20:E0:6C:A1:F5", "F8:E5:A4:9F:2F:A1", "B0:8B:92:10:45:9E", "64:20:E0:71:DA:25", "F8:79:28:C2:13:F6", "C4:EB:FF:A1:FE:5D", "6C:9E:7C:F3:78:C6", "0C:01:4B:48:04:B6", "E8:81:75:CF:37:06", "C4:F0:EC:32:9B:8B", "E8:81:75:CF:39:CA", "E4:FA:C4:6A:A3:84", "66:20:E1:15:91:2E", "70:F8:2B:FA:EC:A4", "D8:A0:E8:46:FD:E6", "66:20:E1:1B:05:5E", "64:20:E0:C2:F4:95", "98:3F:60:E1:0B:DC", "8C:68:3A:39:E6:60", "04:8C:16:07:13:EC", "0C:01:4B:42:1D:F4", "04:4F:17:12:0B:AD", "84:93:B2:1D:FB:7A", "74:F8:DB:68:8A:A4", "7A:53:0D:18:12:51", "AC:B3:B5:70:BB:40", "E0:19:54:98:20:44", "44:67:47:37:90:C8", "66:20:E1:1D:55:7E", "90:FD:73:F8:DF:2D", "16:13:46:1A:56:79", "94:AB:0A:A1:59:F1", "44:13:D0:B2:2B:1D", "DC:EF:80:DE:83:40", "66:20:E1:1F:5D:EE", "7A:53:0D:10:CD:A1", "78:90:A2:91:3F:48", "7A:53:0D:1D:C5:F9", "7A:53:0D:12:25:D9", "66:20:E1:10:BA:3E", "E0:19:54:99:87:FC", "30:FB:B8:D7:13:48", "68:FF:7B:41:7B:B7", "E4:66:AB:F7:B3:E5", "16:11:5D:15:02:01", "B0:8B:92:0D:19:76", "66:20:E1:1B:63:2E", "20:08:89:0B:01:42", "E0:A1:CE:8D:40:36", "B4:DE:31:D6:44:E0", "64:20:E0:EE:66:F5", "E0:19:54:98:7A:3E", "20:08:89:4F:30:88"
+            ],
+            "networkRssi": [
+                -36, -49, -71, -71, -71, -73, -76, -81, -81, -81, -81, -82, -82, -83, -83, -84, -84, -84, -85, -86, -86, -87, -87, -87, -87, -87, -88, -88, -89, -89, -90, -90, -90, -90, -91, -91, -91, -91, -91, -91, -91, -91, -91, -91, -91, -92, -92, -92, -93, -93, -93, -93, -93, -93, -94, -95, -96, -97
+            ],
+            "networkChannel": [
+                4, 4, 1, 9, 11, 8, 11, 2, 8, 9, 9, 2, 9, 1, 4, 2, 11, 13, 11, 1, 13, 4, 4, 1, 3, 9, 8, 10, 2, 7, 1, 5, 5, 13, 1, 1, 3, 3, 5, 7, 7, 7, 8, 8, 13, 1, 7, 8, 3, 7, 10, 13, 13, 13, 11, 5, 1, 13
+            ]
+        }
+    },
+    "serverstamp": "2024-09-04T08:11:15.553"
+}
