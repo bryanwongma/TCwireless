@@ -38,13 +38,14 @@
         }
     },
     "information.uwb": {
-        "Transmit timestamp (microseconds)": 7579603.50,
-        "Receive timestamp (microseconds)": 7604630.00,
-        "TOF (microseconds)": 25026.89,
-        "Distance (Meter)": 7502873.00,
-        "From": 84,         
-        "Range (m)": -0.13,   
-        "RX power (dBm)" : -50.56
+        "macDevice": ["14:2E:5E:24:E8:24", "5A:CD:11:F0:13:86", "50:FD:D5:8E:2A:EB", "F8:79:28:C0:5F:76",]
+        "channel": [1, 2, 3, 4,]
+        "fpPower(dBm)" [-10, -20, -30, -40]
+        "rxPower(dBm)" [-10, -20, -30, -40]
+        "toa_timecount": [123, 124, 125, 126],
+        "distance_m": [10, 20, 30, 40],
+        "from": [80, 70, 60, 50],         
+        "range": [0.65, 0.65, 0.70, 123,   
     },
     "serverstamp": "2024-09-04T08:11:15.553"
 }
