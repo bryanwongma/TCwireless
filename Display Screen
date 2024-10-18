@@ -1,0 +1,44 @@
+Display Screen
+There are 5 stages
+
+Stage1: Stand by mode
+1.1 Check Wifi Connection
+1.2 Check UWB status
+1.2 Check Time sync status
+Print:
+Line1: "Device is ready"
+Line2: "Wi-Fi is ok"
+Line3: "UWB is ok"
+Line4: "Time is Sync"
+Blink every 500 ms
+
+####### Process Stage ########
+Start when remote control is active
+####### Process Stage ########
+
+Stage2: Working Process
+Print:
+"Device Working" delay 500 ms
+"Device Working." delay 500 ms
+"Device Working.." delay 500 ms
+"Device Working..." delay 500 ms
+Loop for data collection is complete
+
+Stage3: Data collection is complete
+Print: "Data complete" Blink every 500 ms 2 time
+
+Stage4: Upload data
+Print
+Line1: tag 1, sequence 00001
+Line2: wifi rssi(dbm): -xx
+Line3: uwb1, rx -90, tof 111, dis 1.00
+Line4: uwb2, rx -90, tof 111, dis 1.00
+Line5: uwb3, rx -90, tof 111, dis 1.00
+Line6: uwb4, rx -90, tof 111, dis 1.00
+Line7: "uploading", delay 500 ms "uploading.", delay 500 ms"uploading..", delay 500 ms"uploading..." 
+Display atleast 5 second or long as upload complete
+
+Stage5: Final Stage
+Print: "Sequence 00001, Data collection complete" Blink every 500 ms for 2 second
+
+and go to satge 1 for stand by
